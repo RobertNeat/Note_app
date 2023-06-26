@@ -59,20 +59,20 @@ To run application:
     </tr>
 </table>
         
-4. Deleting note (of all notes):
+4. Deleting one note (of all notes):
 
-#################################3
 <table>
     <tr>
         <td>
-            <img src="https://github.com/RobertNeat/Phone_list_app/blob/main/pistures_res/delete_on_swipe.png" width="200"/>
+            <img src="https://github.com/RobertNeat/Note_app/blob/main/pictures_res/Screenshot_20230626_105508_Note_app.png" width="200"/>
         </td>
         <td>
-            <img src="https://github.com/RobertNeat/Phone_list_app/blob/main/pistures_res/after_swipe.png" width="200"/>
+            <img src="https://github.com/RobertNeat/Note_app/blob/main/pictures_res/Screenshot_20230626_105511_Note_app.png" width="200"/>
         </td>  
     </td>
 </table>
 
+#################################3
 
 5. Modify the existing phone:
 <table>
