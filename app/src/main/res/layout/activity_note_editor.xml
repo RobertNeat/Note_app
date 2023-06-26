@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:shrinkColumns="*"
+    android:stretchColumns="2">
+
+    <TableRow
+        android:id="@+id/row_1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/note_title_TextView"
+            android:text="Title:"
+            android:textSize="20dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+        <EditText
+            android:id="@+id/note_title_EditText"
+            android:text=""
+            android:layout_span="2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:inputType="text"/>
+    </TableRow>
+
+    <TableRow
+        android:id="@+id/row_2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/note_description_TextView"
+            android:text="Description:"
+            android:textSize="20dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+        <EditText
+            android:id="@+id/note_description_EditText"
+            android:text=""
+            android:layout_span="2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:inputType="text"/>
+    </TableRow>
+
+
+    <TableRow
+        android:id="@+id/row_3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <Button
+            android:id="@+id/CancelBTN"
+            android:text="Cancel"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="4dp"
+            android:layout_weight="1"
+            android:backgroundTint="@color/card_background"/>
+        <Button
+            android:id="@+id/SaveBTN"
+            android:text="Save"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="4dp"
+            android:layout_weight="1"
+            android:backgroundTint="@color/card_background"/>
+    </TableRow>
+</TableLayout>
