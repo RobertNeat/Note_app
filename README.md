@@ -72,19 +72,15 @@ To run application:
     </td>
 </table>
 
-#################################3
 
-5. Modify the existing phone:
+5. Delete all notes:
 <table>
     <tr>
         <td>
-            <img src="https://github.com/RobertNeat/Phone_list_app/blob/main/pistures_res/editadd%20activity.png" width="200"/>
+            <img src="https://github.com/RobertNeat/Note_app/blob/main/pictures_res/Screenshot_20230626_105203_Note_app.png" width="200"/>
         </td>      
         <td>
-            <img src="https://github.com/RobertNeat/Phone_list_app/blob/main/pistures_res/implicit_intent_samsung.png" width="200"/>
+            <img src="https://github.com/RobertNeat/Note_app/blob/main/pictures_res/Screenshot_20230626_105535_Note_app.png" width="200"/>
         </td>
-        <td>
-            <img src="https://github.com/RobertNeat/Phone_list_app/blob/main/pistures_res/list_edited.png" width="200"/>
-        </td>   
     </tr>
 </table>
