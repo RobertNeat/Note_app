@@ -39,25 +39,29 @@ To run application:
 1. Application showing in app tray with specific icon:
 <img src="https://github.com/RobertNeat/Note_app/blob/main/pictures_res/Screenshot_20230626_105159_One%20UI%20Home.png" width="200"/>
 2. First application launch (by default the one example record is acreated to show user how to use application):
-<img src="https://github.com/RobertNeat/Note_app/blob/main/pictures_res/Screenshot_20230626_105201_Note_app.png" width="200"/>
+<img src="https://github.com/RobertNeat/Note_app/blob/main/pictures_res/Screenshot_20230626_105203_Note_app.png" width="200"/>
 3. Adding new note:
 
-#################################3
 <table>
     <tr>
         <td>    
-            <img src="https://github.com/RobertNeat/Phone_list_app/blob/main/pistures_res/after_launch.png" width="200"/>
+            <img src="https://github.com/RobertNeat/Note_app/blob/main/pictures_res/Screenshot_20230626_105203_Note_app.png" width="200"/>
         </td>   
         <td>
-            <img src="https://github.com/RobertNeat/Phone_list_app/blob/main/pistures_res/add%20activity.png" width="200"/>
+            <img src="https://github.com/RobertNeat/Note_app/blob/main/pictures_res/Screenshot_20230626_105220_Note_app.png" width="200"/>
         </td>   
         <td>
-            <img src="https://github.com/RobertNeat/Phone_list_app/blob/main/pistures_res/list_added.png" width="200"/> 
+            <img src="https://github.com/RobertNeat/Note_app/blob/main/pictures_res/Screenshot_20230626_105310_Note_app.png" width="200"/> 
+        </td>   
+        <td>
+            <img src="https://github.com/RobertNeat/Note_app/blob/main/pictures_res/Screenshot_20230626_105313_Note_app.png" width="200"/> 
         </td>
     </tr>
 </table>
         
-4. Deleting phone (of all phones):
+4. Deleting note (of all notes):
+
+#################################3
 <table>
     <tr>
         <td>
